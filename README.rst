@@ -12,15 +12,15 @@ Models
 --------
 
 Project(SlugTitleDescription)
-  - active
-  - start
-  - end
-  - galleries
-  - articles
-  - owner
-  - organizing_group
-  - contact (Person)
-  - organizers
+  - Active
+  - Start
+  - End
+  - Galleries
+  - Articles
+  - Owner
+  - Organizing_group
+  - Contact (Person)
+  - Organizers
 
 URLs
 ------
